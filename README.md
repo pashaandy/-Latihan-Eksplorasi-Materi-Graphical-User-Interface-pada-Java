@@ -24,4 +24,4 @@ java KonvertSuhu
 
 ## Screenshot
 
-![Tampilan aplikasi](screenshot.png)
+![Tampilan aplikasi](SSan.png)
